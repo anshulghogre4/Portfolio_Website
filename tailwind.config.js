@@ -8,7 +8,10 @@ module.exports = {
       },
     },
     fontFamily: {
-      'oswald': [ 'Oswald', 'sans-serif']
+      'oswald': [ 'Oswald', 'sans-serif'],
+      'inter':[ 'Inter', 'sans-serif'],
+      'bebas':[ 'Bebas Neue', 'cursive'],
+      'pixel':[ 'pixel', 'cursive'],
     },
   },
   plugins: [],
